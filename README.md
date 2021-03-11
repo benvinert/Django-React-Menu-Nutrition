@@ -1,3 +1,8 @@
+with this App you can search any food you want and see how many calories&carbs etc.. it contains , and add it to your nutrition menu and see summary of all meals you made and save it on your computer on pdf file
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
