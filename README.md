@@ -1,12 +1,13 @@
+<h1>Customer Story</h1>
 with this App you can search any food you want and see how many calories&carbs etc.. it contains , 
 and add it to your nutrition menu and see summary of all meals you made and save it on your computer on pdf file.
 
 i got list of all foods on israeli website and put this on my site ,
 when client select food so backend send request to this site and get all Nutrition values.
-you can see video of project here :
+<h1>Video</h1>
 https://www.youtube.com/watch?v=yJw8GN-J68A
 
-Also some photos
+some photos
 
 ![CalculateApp1](https://user-images.githubusercontent.com/64857968/110786449-d1a4fc80-8274-11eb-8b65-14eb9331e898.png)
 ![CalculateApp2png](https://user-images.githubusercontent.com/64857968/110786467-d964a100-8274-11eb-8470-64016ec14be6.png)
@@ -15,8 +16,24 @@ Also some photos
 ![CalculateApp6](https://user-images.githubusercontent.com/64857968/110786486-dec1eb80-8274-11eb-974d-9179729e60c7.png)
 ![CalculateApp5](https://user-images.githubusercontent.com/64857968/110786739-2ba5c200-8275-11eb-924d-b046ce464a6a.png)
 
-
-
+<h1>Features</h1>
+<ul>
+  <li>REST API</li>
+  <li>Save pdf file</li>
+</ul>
+<h1>Technology Stacks</h1>
+<h2>Backend</h1>
+<ul>
+  <li>Python</li>
+  <li>Django</li>
+  <li>requests</li>
+</ul>
+<h2>Frontend</h1>
+<ul>
+  <li>React(Hooks)</li>
+  <li>MaterialUI</li>
+  <li>react-pdf</li>
+</ul>
 
 # Getting Started with Create React App
 
