@@ -1,0 +1,116 @@
+* {
+  box-sizing: border-box;
+  margin : 0;
+  padding: 0;
+}
+
+
+.App
+{
+  text-align: center;
+  background-color: #AFBADC;
+}
+
+.Links
+{
+  display : flex;
+  grid-auto-flow: column;
+  grid-column-gap: 40px;
+  margin-left: 2.7rem;
+  font-size: 1.5rem;
+}
+
+nav
+{
+  background-color: #222629;
+  height : 60px;
+}
+
+.sidebar
+{
+  left : -100%;
+  background-color: none;
+  transition: 850ms;
+  background-color:#474B4F;
+  justify-content: center;
+  display: flex;
+  position: fixed;
+  height: 100vh;
+  width: 100%;
+  top : 0px;
+}
+.sidebar.active
+{
+  left : 0%;
+  transition: 350ms;
+  width : 250px;
+}
+.nav-text
+{
+  justify-content: start;
+  align-items: center;
+  padding: 8px 0px 8px 16px;
+  list-style: none;
+  height: 80px;
+  font-size: 20px;
+  
+}
+
+.nav-text a
+{
+  text-decoration: none;
+  color : white;
+  border-radius: 5%;
+  width: 98%;
+  align-items: center;
+  display: flex;
+  padding: 0px 16px;
+  height: 100%;
+}
+.navbar-items
+{
+width : 100%;
+}
+
+.nav-text a:hover
+{
+  background-color: blue;
+}
+
+.Searchinput-Buttons
+{
+  margin-top : 0.5rem;
+}
+
+.navbarToggle
+{
+font-size: 30px;
+outline: none;
+list-style: none;
+margin-left: 20px;
+}
+
+
+span
+{
+  margin-left: 16px;
+}
+
+table,th,td
+{
+  border-spacing: 8px;
+  align-content: center;
+  padding: 3px 3px 3px 3px;
+  
+}
+
+.form{
+  margin-top: 50px;
+  background-color: #6B6E70;
+  border-radius: 1%;
+  font-family: sans-serif;
+
+}
+
+
+
