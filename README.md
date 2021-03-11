@@ -1,5 +1,12 @@
 with this App you can search any food you want and see how many calories&carbs etc.. it contains , and add it to your nutrition menu and see summary of all meals you made and save it on your computer on pdf file
 
+![CalculateApp1](https://user-images.githubusercontent.com/64857968/110786449-d1a4fc80-8274-11eb-8b65-14eb9331e898.png)
+![CalculateApp2png](https://user-images.githubusercontent.com/64857968/110786467-d964a100-8274-11eb-8470-64016ec14be6.png)
+![CalculateApp3](https://user-images.githubusercontent.com/64857968/110786470-da95ce00-8274-11eb-99d6-cd78cef742f0.png)
+![CalculateApp4](https://user-images.githubusercontent.com/64857968/110786474-dbc6fb00-8274-11eb-8c17-c663ebcae070.png)
+![CalculateApp6](https://user-images.githubusercontent.com/64857968/110786486-dec1eb80-8274-11eb-974d-9179729e60c7.png)
+![CalculateApp5](https://user-images.githubusercontent.com/64857968/110786739-2ba5c200-8275-11eb-924d-b046ce464a6a.png)
+
 
 
 
